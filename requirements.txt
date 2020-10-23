@@ -8,9 +8,9 @@ attrs=20.2.0=py_0
 backcall=0.2.0=py_0
 bleach=3.2.1=py_0
 blis=0.4.1=pypi_0
-ca-certificates=2020.10.14=0
+ca-certificates=2020.6.20=hecda079_0
 catalogue=1.0.0=pypi_0
-certifi=2020.6.20=py38_0
+certifi=2020.6.20=py38h924ce5b_2
 cffi=1.14.3=py38he30daa8_0
 chardet=3.0.4=pypi_0
 cycler=0.10.0=pypi_0
@@ -46,6 +46,7 @@ jupyter=1.0.0=py38_7
 jupyter_client=6.1.7=py_0
 jupyter_console=6.2.0=py_0
 jupyter_core=4.6.3=py38_0
+jupyter_server=1.0.5=py38h32f6830_0
 jupyterlab_pygments=0.1.2=py_0
 kiwisolver=1.2.0=pypi_0
 ld_impl_linux-64=2.33.1=h53a641e_7
@@ -69,7 +70,7 @@ ncurses=6.2=he6710b0_1
 nest-asyncio=1.4.1=py_0
 notebook=6.1.4=py38_0
 numpy=1.19.2=pypi_0
-openssl=1.1.1h=h7b6447c_0
+openssl=1.1.1h=h516909a_0
 packaging=20.4=py_0
 pandas=1.1.3=pypi_0
 pandoc=2.11=hb0f4dca_0
@@ -93,6 +94,7 @@ pyqt=5.9.2=py38h05f1152_4
 pyrsistent=0.17.3=py38h7b6447c_0
 python=3.8.3=hcff3b4d_2
 python-dateutil=2.8.1=py_0
+python_abi=3.8=1_cp38
 pytz=2020.1=pypi_0
 pyyaml=5.3.1=pypi_0
 pyzmq=19.0.2=py38he6710b0_1
@@ -121,6 +123,7 @@ tornado=6.0.4=py38h7b6447c_1
 tqdm=4.50.2=pypi_0
 traitlets=5.0.5=py_0
 urllib3=1.25.10=pypi_0
+voila=0.2.3=pypi_0
 wasabi=0.8.0=pypi_0
 wcwidth=0.2.5=py_0
 webencodings=0.5.1=py38_1
